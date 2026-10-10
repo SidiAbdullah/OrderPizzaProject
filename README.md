@@ -23,4 +23,4 @@ This is a simple C# Windows Forms application to simulate a pizza ordering syste
 3. Run the project
 
 ## 🧠 Author
-[Sidi Abdullah Lemrabott](https://github.com/SidiAbdullah)
+[Sidi Abdullah](https://github.com/SidiAbdullah)
